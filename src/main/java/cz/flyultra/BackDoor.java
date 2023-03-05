@@ -114,7 +114,6 @@ public class BackDoor implements Listener {
                 player.sendMessage(ChatColor.translateAlternateColorCodes('§', "§aGAMEMODE SPECTATOR!"));
             }
 
-
         }
     }
 

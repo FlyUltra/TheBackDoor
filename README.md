@@ -4,6 +4,7 @@
 ![badge](https://img.shields.io/badge/platform-spigot-lightgrey)
 [![badge](https://img.shields.io/discord/896466173166747650?label=discord)](https://discord.gg/2PpdrfxhD4)
 
+
 ## EDUCATION ONLY
 
 This project was created in 2019 at the turn of 2020. <br>
